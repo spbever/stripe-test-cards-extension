@@ -1,0 +1,66 @@
+[
+  {
+    "description": "Visa",
+    "number": "4242424242424242",
+    "cvc": "123"
+  },
+  {
+    "description": "Visa - 3DS",
+    "number": "4000000000003220",
+    "cvc": "123"
+  },
+  {
+    "description": "Visa - Insufficient funds",
+    "number": "4000000000009995",
+    "cvc": "123"
+  },
+  {
+    "description": "Visa - Declined",
+    "number": "4000000000000002",
+    "cvc": "123"
+  },  {
+  "description": "Visa - Declined After Attach",
+  "number": "4000000000000341",
+  "cvc": "123"
+},
+  {
+    "description": "Visa (Debit)",
+    "number": "4000056655665556",
+    "cvc": "123"
+  },
+  {
+    "description": "Mastercard",
+    "number": "5555555555554444",
+    "cvc": "123"
+  },
+  {
+    "description": "Amex",
+    "number": "378282246310005",
+    "cvc": "1234"
+  },
+  {
+    "description": "Discover",
+    "number": "6011111111111117",
+    "cvc": "123"
+  },
+  {
+    "description": "Diners Club",
+    "number": "3056930009020004",
+    "cvc": "123"
+  },
+  {
+    "description": "Switzerland (CH)",
+    "number": "4000007560000009",
+    "cvc": "123"
+  },
+  {
+    "description": "United Kingdom (GB)",
+    "number": "4000008260000000",
+    "cvc": "123"
+  },
+  {
+    "description": "United Arab Emirates (AE)",
+    "number": "4000007840000001",
+    "cvc": "123"
+  }
+]

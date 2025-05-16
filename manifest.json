@@ -1,0 +1,10 @@
+{
+  "name": "Stripe Test Cards",
+  "description": "A list of common testing credit cards for Stripe",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "card-list.html",
+    "default_icon": "credit_card_128.png"
+  }
+}

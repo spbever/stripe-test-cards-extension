@@ -1,0 +1,49 @@
+<html>
+<head>
+    <style>
+        span.CardNumber span {
+            margin-right: 2px;
+        }
+        span.CardBrand {
+            font-weight: 400;
+        }
+
+        table tbody tr:nth-child(odd) {
+            background-color: rgb(230,233,236);
+
+        }
+        table tbody tr td:nth-child(4),
+        table thead tr th:nth-child(4)
+        {
+            display:none;
+        }
+        table thead tr th {
+            padding-left: 3px;
+            padding-right: 3px;
+        }
+
+        #card-list {
+            width: 300px;
+        }
+        .card-wrapper {
+            padding: 5px;
+        }
+        .card-wrapper:nth-child(odd) {
+            background-color: rgb(230,233,236);
+        }
+        .card-wrapper label {
+            font-weight: 600;
+        }
+    </style>
+
+</head>
+<body>
+<h1>Stripe Test Cards</h1>
+
+<div id="card-list">
+</div>
+
+<script type="application/javascript" src="card-list.js">
+</script>
+</body>
+</html>
